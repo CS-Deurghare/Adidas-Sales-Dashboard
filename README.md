@@ -8,15 +8,16 @@ An interactive Power BI dashboard analyzing Adidas sales performance, profit mar
 # 📌 Project Overview
 - This Power BI repository contains an end-to-end interactive Adidas Sales Analysis Dashboard. The project transforms raw multi-region retail sales data into key performance indicators (KPIs) and trend analyses to evaluate revenue generation, operating profit margins, top-performing sales channels/retailers, and regional product trends across the United States.
 
+# Key Performance Indicators (KPIs)
+| KPI | Value |
+|---|---|
+| Total Sales | $900.46M |
+| Total Profit | $332.28M |
+| Total Units Sold | 18M |
+| Average Price Per Unit | $45.22 |
+| Profit Margin | 42.30% |
 
-# 📉 Key Dashboard Metrics
-- Total Sales: $900.46M
-- Total Profit: $332.28M
-- Total Units Sold: 18M
-- Average Price Per Unit: $45.22
-- Profit Margin: 42.30%
-
-# 🔍 Key Insights & Visualizations Summary
+# 🔍 Key Insights & Visualizations
 
 ## 1. Monthly Sales Trends (Line/Area Chart)
 - Dynamic sales trajectory throughout the year, peaking in July ($96M) and August ($92M), with a secondary end-of-year surge in December ($86M).
