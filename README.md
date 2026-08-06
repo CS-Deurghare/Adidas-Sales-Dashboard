@@ -3,7 +3,7 @@ An interactive, high-impact Power BI dashboard designed to evaluate Adidas's sal
 ---
 <img src="https://github.com/CS-Deurghare/Adidas-Sales-Dashboard/blob/6c9a360094607a738f1a6a3e96a0c6c5f3107f01/Adidas%20Sales%20Dashboard.png" alt="Image Description" width="700">
 
-📊 Adidas Sales Analysis Dashboard | Power BI
+# 📊 Adidas Sales Analysis Dashboard | Power BI
 
 # 📌 Project Overview
 - This Power BI repository contains an end-to-end interactive Adidas Sales Analysis Dashboard. The project transforms raw multi-region retail sales data into key performance indicators (KPIs) and trend analyses to evaluate revenue generation, operating profit margins, top-performing sales channels/retailers, and regional product trends across the United States.
